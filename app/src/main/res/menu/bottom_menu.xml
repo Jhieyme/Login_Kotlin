@@ -14,9 +14,9 @@
     </item>
 
     <item
-        android:id="@+id/bottom_add"
-        android:title="Add"
-        android:icon="@drawable/ic_add">
+        android:title=""
+        android:enabled="true"
+        >
     </item>
 
     <item

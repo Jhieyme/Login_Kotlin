@@ -10,7 +10,7 @@
         android:text="Favorite"
         android:textSize="40sp"
         android:textStyle="bold"
-        android:textColor="@color/purple"
+        android:textColor="@color/lavender"
         android:gravity="center" />
 
 </FrameLayout>
